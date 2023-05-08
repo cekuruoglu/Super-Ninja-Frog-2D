@@ -1,9 +1,10 @@
-# Super-Ninja-Frog-2D
-Super Ninja Frog, a simple 2D game as i discovered Unity 2D.
-Controls:
-• Movement: Left arrow and right arrow.
-• Jump: Up arrow.
-• Double Jump: Double click up arrow.
+# Super Ninja Frog 
+Super Ninja Frog, a simple 2D game as i discovered Unity 2D. This game type is platform game for Android. <br>
+<h3>Controls:</h3>
+• Movement: Left arrow and right arrow.<br>
+• Jump: Up arrow.<br>
+• Double Jump: Double click up arrow.<br>
+
 ![1](https://user-images.githubusercontent.com/128997898/236850554-785d78ce-9ffa-4c8f-a048-0d014c1d2da3.png)
 
 ![2](https://user-images.githubusercontent.com/128997898/236851670-e4e61fce-de8e-4246-a184-62ebcb872985.png)
